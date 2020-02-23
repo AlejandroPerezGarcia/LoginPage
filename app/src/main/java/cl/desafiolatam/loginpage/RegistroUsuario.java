@@ -1,4 +1,13 @@
 package cl.desafiolatam.loginpage;
 
-public class RegistroUsuario {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class RegistroUsuario extends AppCompatActivity {
+
+
+
+
+
+
+
 }
