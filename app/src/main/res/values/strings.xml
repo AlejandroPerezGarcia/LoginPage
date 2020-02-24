@@ -12,6 +12,7 @@
     <string name="app_email">Ingrese Mail</string>
     <string name="app_masculino">Masculino</string>
     <string name="app_fememino">Femenino</string>
+    <string name="app_re_ingrese_pass">Re-ingrese contraseña</string>
 
 
     <string-array name="edades">
