@@ -13,7 +13,7 @@
     <string name="app_masculino">Masculino</string>
     <string name="app_fememino">Femenino</string>
     <string name="app_re_ingrese_pass">Re-ingrese contraseña</string>
-
+    <string name="app_mensaje">usuario Creado</string>
 
     <string-array name="edades">
         <item>Seleccione Edad</item>
