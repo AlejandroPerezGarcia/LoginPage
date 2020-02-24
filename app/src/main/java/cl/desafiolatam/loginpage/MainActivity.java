@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         btntoast.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "Usuario ingreso con exito", Toast.LENGTH_SHORT).show();
+                startActivity(new Intent(MainActivity.this, ActivitiHome.class));
 
             }
         });

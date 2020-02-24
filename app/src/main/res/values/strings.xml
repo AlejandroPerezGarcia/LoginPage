@@ -9,6 +9,9 @@
     <string name="app_ingrese_password">Ingrese Nueva Contraseña</string>
     <string name="app_ingreso_edad">ingrese su Edad</string>
     <string name="app_registrarse">Registrase</string>
+    <string name="app_email">Ingrese Mail</string>
+    <string name="app_masculino">Masculino</string>
+    <string name="app_fememino">Femenino</string>
 
 
     <string-array name="edades">
@@ -39,4 +42,7 @@
         <item>39</item>
         <item>40</item>
     </string-array>
+    <string name="title_activity_activiti_home">ActivitiHome</string>
+
+
 </resources>
