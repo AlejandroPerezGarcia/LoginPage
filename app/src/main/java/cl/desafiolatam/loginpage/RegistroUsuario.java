@@ -11,8 +11,8 @@ import androidx.appcompat.app.AppCompatActivity;
 public class RegistroUsuario extends AppCompatActivity {
 
 
-
     Button button3;
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ingreso_usuario);
@@ -26,7 +26,6 @@ public class RegistroUsuario extends AppCompatActivity {
                 startActivity(new Intent(RegistroUsuario.this, ActivitiHome.class));
             }
         });
-
 
 
     }

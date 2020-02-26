@@ -26,8 +26,6 @@
         <activity android:name=".RegistroUsuario" />
 
 
-
-
     </application>
 
 </manifest>
